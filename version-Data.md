@@ -1,4 +1,6 @@
 Data//
-This is version control for the projects.
-Outgoing versions//
-1)Version: 28/10/22
+This is Edition control for the projects.
+Outgoing Editions//
+
+1. Edition 1 : 28/10/22
+2. Edition 2 : unnamed
