@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+  }
+
+  canvas {
+    border: 1px solid #03a9f4;
+    background-color: black;
+  }
+
+  button {
+    color: #03a9f4;
+    background-color: black;
+    border-style: solid;
+    border-color: red;
+    width: 100px;
+    height: 25px;
+  }
