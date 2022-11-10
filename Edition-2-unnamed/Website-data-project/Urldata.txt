@@ -1,0 +1,81 @@
+your Url data:
+        ---------------------------------------------------------------------------------------------------
+        URL  : http://mywebsite.com/hello.html?id=100&spsr=9267
+        Sterilize url : 1= http://mywebsite.com/hello.html?id=100
+                        2= http://mywebsite.com/hello.html?id=100
+        host (root domain) : mywebsite.com
+        hostname excluding host : mywebsite.com
+        pathname : /hello.html
+        sterilized url and search : ?id=100
+        an object : id=100&spsr=9267
+        
+    ---------------------------------------------------------------------------------------------------
+    URL  : http://mywebsite.com/hello.html?id=100&spsr=9267
+    Sterilize url : 1= http://mywebsite.com/hello.html?id=100
+                    2= http://mywebsite.com/hello.html?id=100
+    host (root domain) : mywebsite.com
+    hostname excluding host : mywebsite.com
+    pathname : /hello.html
+    sterilized url and search : ?id=100
+    an object : id=100&spsr=9267
+    
+    ---------------------------------------------------------------------------------------------------
+    URL  : http://mywebsite.com/hello.html?id=100&spsr=9267
+    Sterilize url : 1= http://mywebsite.com/hello.html?id=100
+                    2= http://mywebsite.com/hello.html?id=100
+    host (root domain) : mywebsite.com
+    hostname excluding host : mywebsite.com
+    pathname : /hello.html
+    sterilized url and search : ?id=100
+    an object : id=100&spsr=9267
+    
+    ---------------------------------------------------------------------------------------------------
+    URL  : http://mywebsite.com/hello.html?id=100&spsr=9267
+    Sterilize url : 1= http://mywebsite.com/hello.html?id=100
+                    2= http://mywebsite.com/hello.html?id=100
+    host (root domain) : mywebsite.com
+    hostname excluding host : mywebsite.com
+    pathname : /hello.html
+    sterilized url and search : ?id=100
+    an object : id=100&spsr=9267
+    
+    ---------------------------------------------------------------------------------------------------
+    URL  : http://mywebsite.com/hello.html?id=100&spsr=9267
+    Sterilize url : 1= http://mywebsite.com/hello.html?id=100
+                    2= http://mywebsite.com/hello.html?id=100
+    host (root domain) : mywebsite.com
+    hostname excluding host : mywebsite.com
+    pathname : /hello.html
+    sterilized url and search : ?id=100
+    an object : id=100&spsr=9267
+    
+    ---------------------------------------------------------------------------------------------------
+    URL  : https://www.bbc.co.uk/?spsr=9267
+    Sterilize url : 1= https://www.bbc.co.uk/
+                    2= https://www.bbc.co.uk/
+    host (root domain) : www.bbc.co.uk
+    hostname excluding host : www.bbc.co.uk
+    pathname : /
+    sterilized url and search : 
+    an object : spsr=9267
+    
+    ---------------------------------------------------------------------------------------------------
+    URL  : https://www.bbc.co.uk/
+    Sterilize url : 1= https://www.bbc.co.uk/
+                    2= https://www.bbc.co.uk/
+    host (root domain) : www.bbc.co.uk
+    hostname excluding host : www.bbc.co.uk
+    pathname : /
+    sterilized url and search : 
+    an object : 
+    
+    ---------------------------------------------------------------------------------------------------
+    URL  : https://www.youtube.com/watch?v=4cmB1DgkhFU
+    Sterilize url : 1= https://www.youtube.com/watch?v=4cmB1DgkhFU
+                    2= https://www.youtube.com/watch?v=4cmB1DgkhFU
+    host (root domain) : www.youtube.com
+    hostname excluding host : www.youtube.com
+    pathname : /watch
+    sterilized url and search : ?v=4cmB1DgkhFU
+    an object : v=4cmB1DgkhFU
+    
