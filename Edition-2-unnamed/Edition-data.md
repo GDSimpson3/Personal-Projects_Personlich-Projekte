@@ -4,4 +4,3 @@ Working project//
 2. website data project
 3. discord spammer
 
-Failed projects//

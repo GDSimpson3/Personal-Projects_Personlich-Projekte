@@ -5,8 +5,4 @@ Working project//
 3. spam alert project
 4. windows-alert-project
 
-Failed projects//
 
-1. SH-projects
-2. generate-tokens-project
-3. junk-files
