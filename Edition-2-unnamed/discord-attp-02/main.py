@@ -1,14 +1,17 @@
-import discord
+# #https://www.youtube.com/watch?v=DArlLAq56Mo
+# get the data from the network tab and send mesg and see messages req
 
-client = discord.Client()
+import requests
+payload = {
+    'content': 'the message'
+}
+header = {
 
+    'authorization': 'your token'
+}
+count = 0
+while count < 10:  # this will print your message 10 times
+    r = requests.post('your link',
+                      data=payload, headers=header)
 
-@client.event
-async def on_connect():
-    for user in client.user.friends:
-        try:
-            await user.send('this is a prank, please do not panic, the spsr system has taken control of this users system, we will let go shortly,')
-            print(f"Working with: {user.name}")
-        except:
-            print(f"Not working on: {user.name}")
-client.run("952624445133029487", bot=False)
+    count += 1
